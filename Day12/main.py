@@ -41,7 +41,6 @@ def game():
 
                 else:
                         print(f"You got it!The number was {secret_number}.")
-                        print("\n" * 100)
                         break
 
 
