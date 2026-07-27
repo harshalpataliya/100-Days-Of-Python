@@ -32,3 +32,4 @@ while len(guessed_states) < 50:
         t.goto(state_data.x.item(),state_data.y.item())
         t.write(answer_state)
 
+#test
