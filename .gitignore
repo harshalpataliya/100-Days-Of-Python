@@ -12,7 +12,7 @@ env/
 # VS Code settings
 .vscode/
 
-# Environment variables
+# Environment variablesgit 
 .env
 
 # macOS
