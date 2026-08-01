@@ -1,6 +1,5 @@
 from tkinter import *
 
-
 def calculate():
     miles = float(miles_input.get())
     kilometers = round(miles * 1.609)
