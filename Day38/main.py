@@ -83,3 +83,4 @@ for exercise in result["exercises"]:
     )    
     """
     print(f"Sheety Response: \n {sheet_response.text}")
+g

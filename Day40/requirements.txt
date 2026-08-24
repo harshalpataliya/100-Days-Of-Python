@@ -1,0 +1,4 @@
+python-dotenv==1.0.1
+Requests==2.32.3
+requests-cache==1.2.1
+twilio==9.1.1
